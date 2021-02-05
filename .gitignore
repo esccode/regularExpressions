@@ -1,6 +1,6 @@
 #text files
-.txt
-.csv
+*.txt
+*.csv
 
 # History files
 .Rhistory
