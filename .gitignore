@@ -1,5 +1,7 @@
 #text files
 .txt
+.csv
+
 # History files
 .Rhistory
 .Rapp.history
