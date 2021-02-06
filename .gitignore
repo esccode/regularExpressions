@@ -1,7 +1,7 @@
 #text files
 *.txt
 *.csv
-!test.csv
+!/data/test.csv
 
 # History files
 .Rhistory
